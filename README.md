@@ -1,6 +1,5 @@
 A 3D scan of my noggin taken with a [Structure](http://structure.io/) 3D scanner.
 
-![My head!](metcalf.jpg)
+[![My head!](metcalf.jpg)](https://github.com/chrismetcalf/my-head/blob/master/metcalf.simplified.stl)
 
-<script src="https://embed.github.com/view/3d/chrismetcalf/my-head/master/metcalf.simplified.stl"></script>
-
+[Preview in Github](https://github.com/chrismetcalf/my-head/blob/master/metcalf.simplified.stl)
